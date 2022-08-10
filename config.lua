@@ -22,7 +22,7 @@ Config.ExplosionTypes = {9}
 Config.Enable.Speeding = true
 Config.Enable.Shooting = true
 Config.Enable.Autotheft = true
-Config.Enable.Melee = true
+Config.Enable.Melee = false
 Config.Enable.PlayerDowned = true
 ---------------------------------------------------------------
 Config.Locale = 'en'
